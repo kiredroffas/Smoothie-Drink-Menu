@@ -1,0 +1,10 @@
+Erik Safford
+CS 320
+Assignment 2: Drink Menu in JavaScript
+September 2018
+
+Phase 1 - Menu: http://jsfiddle.net/kiredroffas/t6mra24b/
+Phase 2 - Order: http://jsfiddle.net/kiredroffas/ntLxamod/
+Phase 3 - Inventory: http://jsfiddle.net/kiredroffas/L1wnqepk/
+
+JSFiddle Note: Run in Google Chrome, Ctrl+Shift+I will bring up developer console to show output when scripts are ran.
